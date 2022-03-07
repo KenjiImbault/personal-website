@@ -1,11 +1,11 @@
 body{
 	background-color:rgb(20,20,20);
-	margin:40px auto;
+	margin:1em auto;
 	max-width:25em;
-	line-height:1.6em;
-	font-size:2.1vmin;
+	line-height:1.8em;
+	font-size:2.1em;
 	color:#444;
-	padding:0 10px
+
 	}
 
 h1{
