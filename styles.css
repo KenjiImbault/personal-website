@@ -38,3 +38,7 @@ a:hover{
 .home{
 	text-align:center;
 }
+
+.icons{
+	display:inline-block;
+}
